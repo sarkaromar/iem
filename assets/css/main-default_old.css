@@ -12968,3 +12968,7 @@ textarea.b-product-card-textarea {
   padding: 3px 0;
   line-height: 16px;
 }
+
+a.b-left.b-logo img {
+    width: 150px;
+}

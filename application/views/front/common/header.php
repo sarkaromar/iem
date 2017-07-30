@@ -49,7 +49,7 @@
     <body>
         <header>
             <div class="container b-header__box b-relative">
-                <a href="<?=base_url()?>" class="b-left b-logo "><img class="color-theme" data-retina src="<?= base_url() ?>assets/img/logo.png" alt="Logo" /></a>
+                <a href="<?=base_url()?>" class="b-left b-logo "><img class="color-theme" data-retina src="<?= base_url() ?>assets/img/logo/logo.png" alt="Logo" /></a>
                 <div class="b-header-r b-right b-header-r--icon">
                     <div class="b-top-nav-show-slide f-top-nav-show-slide b-right j-top-nav-show-slide"><i class="fa fa-align-justify"></i></div>
                     <nav class="b-top-nav f-top-nav b-right j-top-nav">
