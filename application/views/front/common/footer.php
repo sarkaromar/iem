@@ -130,8 +130,8 @@
         <!-- jquery ui -->
         <script src="<?= base_url() ?>assets/js/jqueryui/jquery-ui.js"></script>
         <!-- end jquery ui -->
-        <script type="text/javascript" language="javascript"
-        src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyCfVS1-Dv9bQNOIXsQhTSvj7jaDX7Oocvs"></script>
+        <!-- <script type="text/javascript" language="javascript"
+        src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyCfVS1-Dv9bQNOIXsQhTSvj7jaDX7Oocvs"></script> -->
         <!-- Modules -->
         <script src="<?= base_url() ?>assets/js/modules/sliders.js"></script>
         <script src="<?= base_url() ?>assets/js/modules/ui.js"></script>
@@ -139,7 +139,7 @@
         <script src="<?= base_url() ?>assets/js/modules/animate-numbers.js"></script>
         <script src="<?= base_url() ?>assets/js/modules/parallax-effect.js"></script>
         <script src="<?= base_url() ?>assets/js/modules/settings.js"></script>
-        <script src="<?= base_url() ?>assets/js/modules/maps-google.js"></script>
+        <!-- <script src="<?= base_url() ?>assets/js/modules/maps-google.js"></script> -->
         <script src="<?= base_url() ?>assets/js/modules/color-themes.js"></script>
         <!-- End Modules -->
 
